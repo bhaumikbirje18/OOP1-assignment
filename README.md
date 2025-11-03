@@ -44,6 +44,6 @@ src/
 Technologies Used
 * Java 24 (Records, Sealed Classes, Pattern Matching, Switch Expressions)
 
-Author
+Author :
 Bhaumik Shyam Birje
 A00335935 OOP1 Assignment - TUS
